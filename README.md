@@ -1,4 +1,4 @@
-# CELESTIAL BODEIS DATABASE
+# CELESTIAL BODIES DATABASE
 ## Complete the tasks below
 
 You should create a database named universe
